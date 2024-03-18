@@ -1,0 +1,29 @@
+p{
+    font-size: 20px;
+    color:antiquewhite;
+}
+p:hover{
+    background: greenyellow;
+}
+.standout{
+    color: aqua;
+}
+h2.standout{
+    color: blue;
+}
+
+.image1{
+    border-radius: 50%;
+}
+.image2{
+    border-radius: 30px;
+}
+.image3{
+    opacity: 0.8;
+}
+.image4{
+    filter: grayscale(70%);
+}
+.image5{
+    filter: blur(5px);
+}
